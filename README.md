@@ -6,7 +6,7 @@ A JavaScript library for building user interfaces.
 <br>
 
 What is JSX? <br>
-Rules to write JSX.
+Rules to write JSX.<br>
 --> It always return single element
 <br>
 --> use Div or React Fragment to wrap all your JSX Code
